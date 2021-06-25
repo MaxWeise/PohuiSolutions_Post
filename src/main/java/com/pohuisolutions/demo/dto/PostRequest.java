@@ -8,7 +8,5 @@ import lombok.*;
 @Getter
 @Data
 public class PostRequest {
-
     private String name;
-
 }
